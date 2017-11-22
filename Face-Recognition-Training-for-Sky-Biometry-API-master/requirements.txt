@@ -1,0 +1,1 @@
+-e git+https://github.com/Liuftvafas/python-face-client.git#egg=python-face-client
